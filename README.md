@@ -5,6 +5,8 @@ A PowerDNS web interface with advanced features.
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ieaster1/powerportl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ieaster1/powerportl/context:python)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/ieaster1/powerportl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ieaster1/powerportl/alerts/)
 
+[![Coverage Status](https://coveralls.io/repos/github/ieaster1/powerportl/badge.svg)](https://coveralls.io/github/ieaster1/powerportl)
+
 #### Features:
 - Multiple domain management
 - Domain template
