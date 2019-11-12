@@ -1,9 +1,9 @@
 # PowerDNS-Admin
 A PowerDNS web interface with advanced features.
 
-[![Build Status](https://travis-ci.org/ngoduykhanh/PowerDNS-Admin.svg?branch=master)](https://travis-ci.org/ngoduykhanh/PowerDNS-Admin)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ngoduykhanh/PowerDNS-Admin.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ngoduykhanh/PowerDNS-Admin/context:python)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ngoduykhanh/PowerDNS-Admin.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ngoduykhanh/PowerDNS-Admin/context:javascript)
+[![Build Status](https://travis-ci.org/ieaster1/powerportl.svg?branch=master)](https://travis-ci.org/ieaster1/powerportl)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ieaster1/powerportl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ieaster1/powerportl/context:python)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/ieaster1/powerportl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ieaster1/powerportl/alerts/)
 
 #### Features:
 - Multiple domain management

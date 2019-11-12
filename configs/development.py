@@ -2,9 +2,9 @@ import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 # BASIC APP CONFIG
-SECRET_KEY = 'changeme'
+SECRET_KEY = 'apiKey'
 LOG_LEVEL = 'DEBUG'
-LOG_FILE = os.path.join(basedir, 'logs/log.txt')
+LOG_FILE = os.path.join(basedir, 'logs/powerportl.log')
 SALT = '$2b$12$yLUMTIfl21FKJQpTkRQXCu'
 # TIMEOUT - for large zones
 TIMEOUT = 10
